@@ -1,6 +1,6 @@
 # Fitness-app
 ## Overview 
-This project is a Kivy-based application that helps users track their fitness and diet plans. It integrates Google Gemini AI for generating personalized training and eating plans, uses OpenCV and MediaPipe for gesture-based workout counting (push-ups and pull-ups).
+This project is a Kivy-based application that helps users track their fitness and diet plans. This project was designed especially for "Decentraton 2.0" Hackathon. It integrates Google Gemini AI for generating personalized training and eating plans, uses OpenCV and MediaPipe for gesture-based workout counting (push-ups and pull-ups).
 ## Features
 * **Personalized Training Plan**: Generates a daily workout plan using Gemini AI.
 * **Diet Plan Generator**: Creates a daily meal plan with calorie estimates.
