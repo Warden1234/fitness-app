@@ -22,5 +22,5 @@ Ensure you have Python 3 installed. Install dependencies using:
 Set your Google Gemini API key:
 `export API_KEY=your_api_key_here`
 
-##License
+## License
 This project is open-source under the MIT License.
